@@ -1,0 +1,30 @@
+.form-group input, .form-group button {
+	border-radius: 0px;
+	height: 42px;
+}
+
+.row {
+	margin-top: 10px;
+}
+
+#searchForm button {
+	width: 100%;
+}
+
+#weatherTable td, #weatherTable th {
+	text-align: center;
+	vertical-align: middle;
+}
+
+.chartContainer {
+	height: 50px;
+}
+
+.center {
+	text-align: center;
+}
+
+.mapTD {
+	height: 150px;
+	width: 200px;
+}
